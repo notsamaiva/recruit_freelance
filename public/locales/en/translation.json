@@ -1,0 +1,86 @@
+{
+  "navbar": {
+    "about": "About",
+    "role": "Your Role",
+    "embark": "Embark",
+    "language": "Language"
+  },
+
+    "home": {
+      "become_ambassador": "Become an ambassador at",
+      "join_team": "Join our team of business developers and shape the future of",
+      "eco_carpooling": "eco-friendly carpooling",
+      "join_adventure": "JOIN THE ADVENTURE",
+      "home_illustration": "Home illustration"
+
+  },
+
+    "section2a": {
+      "title": "About FlyPool",
+      "description": "FlyPool is more than just a carpooling app. It's a community of committed travelers, an economical and sustainable solution for your trips to and from airports around the world."
+    },
+ 
+      "section2": {
+        "title": "Discover FlyPool",
+        "blocks": {
+          "advantages": {
+            "title": "Advantages",
+            "description": "Travel for free while reducing your carbon footprint. It's an eco-friendly alternative to airport transport. Each trip contributes to charitable causes."
+          },
+          "vision": {
+            "title": "Our Vision",
+            "description": "Our mission is simple: make carpooling accessible to everyone, promote sustainability, and protect the environment with the support of several partner NGOs."
+          },
+          "howItWorks": {
+            "title": "How It Works",
+            "description": "Drivers post their trips, and passengers find their ideal trips using our advanced search engine."
+          }
+        },
+        "joinButton": "Join"
+      },
+   
+        "section2b": {
+          "title": "Your Role",
+          "descriptionu": "We invite you to take a first look around and apply by filling in the form below to find out more about FLYPOOL and join our adventure...",
+          "description": "At FlyPool, our ambassadors are the essential link between the FlyPool app and our community of users, partners, and local media. They play a key role as field coordinators."
+      },
+ 
+        "section4": {
+          "left_column": [
+            {
+              "title": "The Main Role of Our Ambassadors:",
+              "description": "You are a true link between FlyPool and local actors"
+            },
+            {
+              "title": "Spokesperson for FlyPool:",
+              "description": "You represent us in the local media, with professional actors, and local or national political organizations."
+            },
+            {
+              "title": "Partner Search:",
+              "description": "To fuel the FlyPool store (FlyPool’s virtual shop)"
+            }
+          ],
+          "right_column": [
+            {
+              "title": "Promote FlyPool:",
+              "description": "Make the app known to local actors around the airport."
+            },
+            {
+              "title": "Donation Collection:",
+              "description": "Convince donors, whether individuals or professionals, private or public, to support our organization."
+            },
+            {
+              "title": "Convince Advertisers:",
+              "description": "Sell advertising spaces on the platform (banners, display, video)"
+            }
+          ]
+        }
+
+      
+      
+ 
+    
+
+  
+  
+}

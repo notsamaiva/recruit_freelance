@@ -1,0 +1,49 @@
+.section4-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .left-column,
+  .right-column {
+    width: 45%;
+    margin-left: 60px;  /* Décalage à gauche */
+    margin-right: 80px; /* Décalage à droite */
+  }
+  
+  .center-image {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .advantage {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #d3d3d3;  /* Ajout d'un diviseur fin gris */
+    padding-bottom: 20px; /* Espacement en dessous pour que la ligne ne touche pas le texte */
+  }
+  
+  .advantage-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .advantage-text {
+    text-align: left;
+  }
+  
+  .advantage h3 {
+    font-size: 16px;
+    margin: 0;
+    color: #13017c;  /* Changer la couleur du titre */
+  }
+  
+  .advantage p {
+    font-size: 14px;
+    color: #555;
+  }
+  

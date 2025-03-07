@@ -1,0 +1,115 @@
+{
+  "navbar": {
+    "about": "À propos",
+    "role": "Votre rôle",
+    "embark": "Embarquer",
+    "language": "Langue"
+  },
+
+
+    "home": {
+      "become_ambassador": "Devenez ambassadeur chez",
+      "join_team": "Rejoignez notre équipe de business developers et façonnons ensemble l'avenir du",
+      "eco_carpooling": "covoiturage écologique",
+      "join_adventure": "REJOINDRE L'AVENTURE",
+      "home_illustration": "Illustration de l'accueil"
+
+  },
+
+    "section2a": {
+      "title": "À propos de FlyPool",
+      "description": "FlyPool, c'est bien plus qu'une simple application de covoiturage. C'est une communauté de voyageurs engagés, une solution économique et durable pour vos trajets vers et depuis les aéroports du monde entier."
+    },
+    
+      "section2": {
+        "title": "Découvrez FlyPool",
+        "blocks": {
+          "advantages": {
+            "title": "Les Avantages",
+            "description": "Voyagez sans frais tout en réduisant votre empreinte carbone. C’est une alternative écologique au transport vers l’aéroport. Chaque trajet avec contribue à des œuvres caritatives."
+          },
+          "vision": {
+            "title": "Notre Vision",
+            "description": "Notre mission est simple: rendre le covoiturage accessible à tous, promouvoir la durabilité et protéger l’environnement avec le soutien de plusieurs ONG partenaires."
+          },
+          "howItWorks": {
+            "title": "Fonctionnement",
+            "description": "Les conducteurs publient leurs trajets, les passagers trouvent leurs trajets idéaux grâce à notre moteur de recherche avancé."
+          }
+        },
+        "joinButton": "Rejoindre"
+      },
+    
+        "section2b": {
+          "title": "Votre Rôle",
+          "descriptionu": "Nous vous proposons de faire un premier tour de piste et de postuler en remplissant le formulaire ci-dessous pour en savoir plus sur FLYPOOL et rejoindre notre aventure...",
+          "description": "Chez FlyPool, nos ambassadeurs sont le lien essentiel entre l'application FlyPool et notre communauté d'utilisateurs, les partenaires et les médias locaux. Ils jouent un rôle clé en tant que chefs d'orchestre sur le terrain."
+        },
+    
+          "section4": {
+            "left_column": [
+              {
+                "title": "Le Rôle Principal des nos Ambassadeurs:",
+                "description": "Vous êtes un véritable lien entre FlyPool et les acteurs locaux"
+              },
+              {
+                "title": "Porte-parole de FlyPool:",
+                "description": "Vous nous représentez dans les médias locaux, auprès des acteurs professionnels, des organisations politiques locales ou nationales."
+              },
+              {
+                "title": "Recherche de partenaire:",
+                "description": "Pour alimenter le FlyPool store (la boutique virtuelle de FlyPool)"
+              }
+            ],
+            "right_column": [
+              {
+                "title": "Promouvoir FlyPool:",
+                "description": "Faire connaître l'application aux acteurs locaux gravitant autour de l'aéroport."
+              },
+              {
+                "title": "Collecte de Dons:",
+                "description": "Convaincre des donateurs, qu'ils soient particuliers ou professionnels, privés ou publics, de soutenir notre organisation."
+              },
+              {
+                "title": "Convaincre les annonceurs:",
+                "description": "Vendre des espaces publicitaires sur la plateforme (bannières, display, vidéo)"
+              }
+            ]
+          },
+      
+            "translations": {
+              "step1": {
+                "firstName": "Nom",
+                "lastName": "Prénom",
+                "email": "Adresse mail",
+                "phone": "Téléphone",
+                "facebook": "Lien du profil Facebook",
+                "linkedin": "Lien du profil LinkedIn",
+                "continueButton": "CONTINUER"
+              },
+              "step2": {
+                "country": "Pays",
+                "city": "Ville",
+                "airport": "Aéroports",
+                "cvUploadLabel": "Importez votre CV :",
+                "submitButton": "SOUMETTRE",
+                "backButton": "RETOUR"
+              },
+              "notification": {
+                "success": "Candidature envoyée avec succès !",
+                "failure": "Une erreur s'est produite lors de l'envoi de votre candidature."
+              }
+            }
+       
+          
+        
+     
+      
+
+    
+
+  
+  
+    
+  
+}
